@@ -2,8 +2,7 @@
 Local QR Generate
 Support: 
 ```
-Web 🕗
-https://github.com/davidshimjs/qrcodejs
+Web 🕗 [https://github.com/davidshimjs/qrcodejs]
 
 Android 🕗
 ```
